@@ -1,5 +1,5 @@
 ### Hello, I'm Nathan!
-I am a developer from Georgia, USA who has a passion for game development. I have over 6 years of development experience spread across game development (game jams and personal projects) and web development. I am currently persuing my Master degree in Computer Science.
+I am a developer from Georgia, USA who has a passion for game development. I have over 6 years of development experience spread across game development (game jams, personal projects, mods for games) and web development. I am currently persuing my Master degree in Computer Science.
 ## Socials
 <p>
   <a href="https://natestanley.itch.io/">
